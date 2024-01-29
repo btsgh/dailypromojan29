@@ -1,0 +1,1 @@
+{"PageSize":"2","command":"CREATE_MESSAGE","TWILIO_ACCOUNT_SID":"ACd8e840d9913717d90c07c9b6fd8ad1c4","Fom":"+13374474911","To":"+919980332468","Body":"{{Input1.text}}"}
