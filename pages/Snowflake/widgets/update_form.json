@@ -99,7 +99,7 @@
                 "iconAlign": "left",
                 "position": 10,
                 "isDisabled": false,
-                "sourceData": 1.609488E+12,
+                "sourceData": 1609488000000,
                 "fieldType": "Number Input"
             },
             "UPDATEDAT": {
@@ -121,7 +121,7 @@
                 "iconAlign": "left",
                 "position": 3,
                 "isDisabled": false,
-                "sourceData": 1.609459201E+12,
+                "sourceData": 1609459201000,
                 "fieldType": "Number Input"
             },
             "ADDRESS": {
@@ -165,7 +165,7 @@
                 "iconAlign": "left",
                 "position": 2,
                 "isDisabled": false,
-                "sourceData": 1.609459201E+12,
+                "sourceData": 1609459201000,
                 "fieldType": "Number Input"
             },
             "GENDER": {
