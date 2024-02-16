@@ -43,6 +43,7 @@
     "rightColumn": 50,
     "test": "{{}}",
     "isSearchWildcard": true,
+    "dynamicHeight": "FIXED",
     "widgetId": "q01eqpwhnh",
     "reset_widget": "{{const handleReset = () => {\n  setCurrentIndex(0);\n  appsmith.triggerEvent(\"onResetClick\");\n};}}",
     "isVisible": true,
